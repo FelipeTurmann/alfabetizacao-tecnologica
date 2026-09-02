@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s01",
+    "titulo": "Identificar golpes virtuais",
+    "categoria": "Golpes comuns",
+    "icone": "warning_amber",
+    "resumo": "Conheça os sinais mais comuns de tentativas de golpe pela internet.",
+    "passos": [
+      { "texto": "Desconfie de mensagens que prometem prêmios, heranças ou dinheiro fácil sem motivo aparente.", "imagem": null },
+      { "texto": "Golpistas costumam criar urgência, pedindo que você aja 'imediatamente' ou 'em poucos minutos'.", "imagem": null },
+      { "texto": "Nunca informe dados bancários, senhas ou números de cartão por telefone, mensagem ou e-mail.", "imagem": null },
+      { "texto": "Na dúvida, converse com um familiar de confiança antes de tomar qualquer decisão.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "s02",
+    "titulo": "Reconhecer mensagens fraudulentas",
+    "categoria": "Golpes comuns",
+    "icone": "mark_email_unread",
+    "resumo": "Aprenda a identificar e-mails e mensagens falsas que tentam enganar você.",
+    "passos": [
+      { "texto": "Mensagens fraudulentas costumam ter erros de escrita e pedir informações pessoais com urgência.", "imagem": null },
+      { "texto": "Bancos e órgãos oficiais não pedem senha ou dados completos do cartão por mensagem ou e-mail.", "imagem": null },
+      { "texto": "Verifique sempre quem enviou a mensagem; nomes parecidos com empresas conhecidas podem ser falsos.", "imagem": null },
+      { "texto": "Em caso de dúvida, ligue diretamente para o número oficial da empresa, e não para o número enviado na mensagem.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "s03",
+    "titulo": "Cuidados com links recebidos",
+    "categoria": "Navegação segura",
+    "icone": "link",
+    "resumo": "Saiba o que fazer ao receber links desconhecidos por mensagem ou e-mail.",
+    "passos": [
+      { "texto": "Não clique em links enviados por pessoas ou números desconhecidos.", "imagem": null },
+      { "texto": "Mesmo que o link venha de um contato conhecido, desconfie se a mensagem parecer estranha ou fora do comum.", "imagem": null },
+      { "texto": "Nunca insira senhas ou dados pessoais em páginas abertas a partir de links recebidos por mensagem.", "imagem": null },
+      { "texto": "Se tiver dúvida sobre um link, pergunte a um familiar antes de clicar.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "s04",
+    "titulo": "Identificar páginas suspeitas",
+    "categoria": "Navegação segura",
+    "icone": "gpp_maybe",
+    "resumo": "Aprenda a reconhecer sites falsos na internet.",
+    "passos": [
+      { "texto": "Verifique se o endereço do site está escrito corretamente, sem letras trocadas ou estranhas.", "imagem": null },
+      { "texto": "Sites seguros de compras e bancos costumam mostrar um cadeado ao lado do endereço, na parte de cima da tela.", "imagem": null },
+      { "texto": "Desconfie de páginas com muitos anúncios piscando, promessas exageradas ou pedidos imediatos de pagamento.", "imagem": null },
+      { "texto": "Prefira sempre digitar o endereço oficial do site diretamente, em vez de clicar em links de anúncios.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "s05",
+    "titulo": "Criar senhas seguras e fáceis de lembrar",
+    "categoria": "Proteção de conta",
+    "icone": "lock",
+    "resumo": "Veja dicas simples para criar senhas seguras sem esquecer delas.",
+    "passos": [
+      { "texto": "Use senhas com pelo menos 8 caracteres, misturando letras, números e algum símbolo.", "imagem": null },
+      { "texto": "Evite datas de aniversário ou sequências óbvias, como '123456' ou 'senha123'.", "imagem": null },
+      { "texto": "Uma boa dica é criar uma frase curta que só você entenda e transformar em senha, por exemplo: 'MeuNeto2Anos!'.", "imagem": null },
+      { "texto": "Nunca compartilhe suas senhas com outras pessoas, mesmo que digam ser do banco ou de uma empresa.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "s06",
+    "titulo": "Cuidados ao compartilhar informações pessoais",
+    "categoria": "Privacidade",
+    "icone": "privacy_tip",
+    "resumo": "Entenda quais informações não devem ser compartilhadas livremente na internet.",
+    "passos": [
+      { "texto": "Evite publicar endereço completo, números de documentos e dados bancários em redes sociais.", "imagem": null },
+      { "texto": "Tenha cuidado ao informar que a casa ficará vazia durante uma viagem, por exemplo.", "imagem": null },
+      { "texto": "Antes de preencher qualquer formulário na internet, verifique se realmente é necessário fornecer aquele dado.", "imagem": null },
+      { "texto": "Se não tiver certeza sobre a segurança de um pedido de informação, não preencha e busque ajuda de alguém de confiança.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "s07",
+    "titulo": "Boas práticas ao usar aplicativos",
+    "categoria": "Uso seguro",
+    "icone": "apps",
+    "resumo": "Dicas para usar aplicativos do celular com mais segurança no dia a dia.",
+    "passos": [
+      { "texto": "Instale aplicativos apenas pelas lojas oficiais: Play Store ou App Store.", "imagem": null },
+      { "texto": "Leia com atenção as permissões pedidas pelo aplicativo antes de aceitar (como acesso a fotos ou localização).", "imagem": null },
+      { "texto": "Mantenha os aplicativos sempre atualizados, pois as atualizações corrigem falhas de segurança.", "imagem": null },
+      { "texto": "Exclua aplicativos que você não usa mais, especialmente se pedirem muitas permissões.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "s08",
+    "titulo": "Boas práticas ao usar a internet",
+    "categoria": "Uso seguro",
+    "icone": "verified_user",
+    "resumo": "Um resumo de hábitos simples para navegar com mais tranquilidade.",
+    "passos": [
+      { "texto": "Sempre desconfie de ofertas ou notícias boas demais para ser verdade.", "imagem": null },
+      { "texto": "Evite acessar dados bancários em redes Wi-Fi públicas, como as de shoppings e praças.", "imagem": null },
+      { "texto": "Converse com familiares sobre o que você viu ou recebeu, principalmente antes de tomar decisões importantes.", "imagem": null },
+      { "texto": "Lembre-se: você pode sempre pedir ajuda antes de clicar, responder ou pagar algo pela internet.", "imagem": null }
+    ],
+    "video": null
+  }
+]

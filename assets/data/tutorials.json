@@ -1,0 +1,103 @@
+[
+  {
+    "id": "t01",
+    "titulo": "Funções básicas do celular",
+    "categoria": "Primeiros passos",
+    "icone": "phone_android",
+    "resumo": "Aprenda a ligar, desligar e reconhecer os botões principais do seu smartphone.",
+    "passos": [
+      { "texto": "O botão de ligar/desligar geralmente fica na lateral do aparelho. Segure por alguns segundos para ligar o celular.", "imagem": null },
+      { "texto": "Para desbloquear a tela, deslize o dedo de baixo para cima ou digite a senha, se houver uma cadastrada.", "imagem": null },
+      { "texto": "Os ícones na tela representam os aplicativos. Toque uma vez, com o dedo, para abrir o aplicativo desejado.", "imagem": null },
+      { "texto": "Para voltar à tela anterior, procure uma seta ou toque na parte de baixo da tela, dependendo do modelo do aparelho.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "t02",
+    "titulo": "Fazer e receber chamadas",
+    "categoria": "Comunicação",
+    "icone": "call",
+    "resumo": "Veja como ligar para alguém e como atender quando o telefone tocar.",
+    "passos": [
+      { "texto": "Toque no ícone verde de telefone, geralmente localizado na tela inicial.", "imagem": null },
+      { "texto": "Digite o número desejado no teclado que aparece, ou escolha um contato já salvo na lista de contatos.", "imagem": null },
+      { "texto": "Toque novamente no ícone verde para iniciar a chamada.", "imagem": null },
+      { "texto": "Quando o celular tocar recebendo uma ligação, deslize ou toque no ícone verde para atender, e no vermelho para recusar.", "imagem": null },
+      { "texto": "Para encerrar uma chamada em andamento, toque no botão vermelho na tela.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "t03",
+    "titulo": "Enviar mensagens pelo WhatsApp",
+    "categoria": "Comunicação",
+    "icone": "chat",
+    "resumo": "Aprenda o passo a passo para conversar com familiares e amigos pelo WhatsApp.",
+    "passos": [
+      { "texto": "Toque no ícone verde do WhatsApp na tela do celular.", "imagem": null },
+      { "texto": "Toque no botão de nova conversa (geralmente um ícone de balão de mensagem) para escolher um contato.", "imagem": null },
+      { "texto": "Escreva sua mensagem no campo de texto na parte de baixo da tela.", "imagem": null },
+      { "texto": "Toque no ícone de seta ou avião de papel para enviar a mensagem.", "imagem": null },
+      { "texto": "Para enviar um áudio, mantenha o dedo pressionado no ícone de microfone e fale; solte para enviar.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "t04",
+    "titulo": "Usar a câmera para fotos e vídeos",
+    "categoria": "Recursos do celular",
+    "icone": "photo_camera",
+    "resumo": "Descubra como tirar fotos e gravar pequenos vídeos com o celular.",
+    "passos": [
+      { "texto": "Toque no ícone da câmera, normalmente representado por uma máquina fotográfica.", "imagem": null },
+      { "texto": "Aponte o celular para o que deseja fotografar e toque no círculo branco na tela para tirar a foto.", "imagem": null },
+      { "texto": "Para gravar um vídeo, procure a opção 'Vídeo' na tela da câmera e toque no botão vermelho para começar e parar a gravação.", "imagem": null },
+      { "texto": "As fotos e vídeos ficam salvos no aplicativo de Galeria ou Fotos do celular.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "t05",
+    "titulo": "Acessar a internet no celular",
+    "categoria": "Internet",
+    "icone": "wifi",
+    "resumo": "Entenda como conectar seu celular à internet usando Wi-Fi ou dados móveis.",
+    "passos": [
+      { "texto": "Para usar o Wi-Fi de casa, entre nas Configurações do celular e toque em 'Wi-Fi'.", "imagem": null },
+      { "texto": "Escolha o nome da sua rede na lista e digite a senha, se solicitada.", "imagem": null },
+      { "texto": "Quando conectado, aparecerá um símbolo de Wi-Fi na parte de cima da tela.", "imagem": null },
+      { "texto": "Caso não tenha Wi-Fi disponível, o celular pode usar os dados móveis do plano contratado com a operadora.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "t06",
+    "titulo": "Fazer pesquisas na internet",
+    "categoria": "Internet",
+    "icone": "search",
+    "resumo": "Aprenda a buscar informações, como notícias e endereços, na internet.",
+    "passos": [
+      { "texto": "Abra o aplicativo do navegador de internet (geralmente chamado de Chrome ou Safari).", "imagem": null },
+      { "texto": "Toque na barra de pesquisa na parte de cima da tela.", "imagem": null },
+      { "texto": "Digite o que você quer buscar, por exemplo 'previsão do tempo em Curitiba', e toque em pesquisar.", "imagem": null },
+      { "texto": "Toque em um dos resultados que aparecem na lista para ver mais informações.", "imagem": null }
+    ],
+    "video": null
+  },
+  {
+    "id": "t07",
+    "titulo": "Baixar e usar aplicativos",
+    "categoria": "Aplicativos",
+    "icone": "get_app",
+    "resumo": "Veja como instalar novos aplicativos de forma segura no seu celular.",
+    "passos": [
+      { "texto": "Toque no ícone da loja de aplicativos: Play Store (celulares Android) ou App Store (iPhone).", "imagem": null },
+      { "texto": "Use a barra de pesquisa para digitar o nome do aplicativo desejado.", "imagem": null },
+      { "texto": "Toque no botão 'Instalar' e aguarde o download terminar.", "imagem": null },
+      { "texto": "Depois de instalado, o aplicativo aparecerá na tela inicial do celular, pronto para ser usado.", "imagem": null },
+      { "texto": "Baixe aplicativos apenas das lojas oficiais (Play Store ou App Store), nunca de links recebidos por mensagem.", "imagem": null }
+    ],
+    "video": null
+  }
+]
