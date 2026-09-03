@@ -39,6 +39,9 @@ class AppStrings {
       'O uso é totalmente gratuito, não exige cadastro nem login, e não '
       'coleta dados pessoais dos usuários.';
 
+  static const linkSobreTitulo = 'Saiba mais sobre o projeto';
+  static const linkSobreUrl = 'https://www.youtube.com/watch?v=LXb3EKWsInQ';
+
   static const aumentarFonte = 'Aumentar fonte';
   static const diminuirFonte = 'Diminuir fonte';
   static const alternarContraste = 'Alto contraste';

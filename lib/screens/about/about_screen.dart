@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import '../../core/constants/app_strings.dart';
 import '../../widgets/accessible_app_bar.dart';
@@ -6,6 +7,17 @@ import '../../widgets/accessibility_toolbar.dart';
 
 class AboutScreen extends StatelessWidget {
   const AboutScreen({super.key});
+
+  Future<void> _abrirLink(BuildContext context) async {
+    final uri = Uri.parse(AppStrings.linkSobreUrl);
+    final abriu = await launchUrl(uri, mode: LaunchMode.externalApplication);
+
+    if (!abriu && context.mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Não foi possível abrir o link.')),
+      );
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -37,6 +49,18 @@ class AboutScreen extends StatelessWidget {
                   Text(
                     AppStrings.sobreTexto,
                     style: Theme.of(context).textTheme.bodyLarge,
+                  ),
+                  const SizedBox(height: 28),
+                  Semantics(
+                    button: true,
+                    link: true,
+                    label:
+                        '${AppStrings.linkSobreTitulo}. Abre em uma nova aba do navegador.',
+                    child: OutlinedButton.icon(
+                      onPressed: () => _abrirLink(context),
+                      icon: const Icon(Icons.open_in_new),
+                      label: const Text(AppStrings.linkSobreTitulo),
+                    ),
                   ),
                 ],
               ),
