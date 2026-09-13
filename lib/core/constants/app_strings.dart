@@ -40,7 +40,7 @@ class AppStrings {
       'coleta dados pessoais dos usuários.';
 
   static const linkSobreTitulo = 'Saiba mais sobre o projeto';
-  static const linkSobreUrl = 'https://www.youtube.com/watch?v=LXb3EKWsInQ';
+  static const linkSobreUrl = 'https://www.youtube.com/watch?v=91iXTpH5csw';
 
   static const aumentarFonte = 'Aumentar fonte';
   static const diminuirFonte = 'Diminuir fonte';
